@@ -1,16 +1,16 @@
 {
   "bundle": {
-    "version": "1.0.0-01c80fc",
-    "url": "https://github.com/njkr/talentpilot-releases/releases/download/bundle-1.0.0-01c80fc/bundle-1.0.0-01c80fc.zip",
-    "checksum": "8164b1ee3e0020a87cdb0f260d6248852466d73366a995e19d36e02cc4c82091",
+    "version": "1.0.0-8c925da",
+    "url": "https://github.com/njkr/talentpilot-releases/releases/download/bundle-1.0.0-8c925da/bundle-1.0.0-8c925da.zip",
+    "checksum": "21a70c693ee2ed4ae2a2fa311b6c69976db51bbca4df2dfbb81fe2a315ed16cb",
     "minNativeVersionCode": 1
   },
   "native": {
-    "versionCode": 14,
+    "versionCode": 15,
     "versionName": "1.0.0",
-    "apkUrl": "https://github.com/njkr/talentpilot-releases/releases/download/native-14/talentpilot-1.0.0-14.apk",
+    "apkUrl": "https://github.com/njkr/talentpilot-releases/releases/download/native-15/talentpilot-1.0.0-15.apk",
     "minSupportedVersionCode": 1,
-    "notes": "Fixes the in-app update check. Install over the existing app.",
-    "nativeHash": "589d69d822f7ffdc61e93e795e5eaf8efb027bde218bc8427eace6721fbf30a3"
+    "notes": "First self-updating build.",
+    "nativeHash": "2828e00355c5a6590c17cb547f6bb4a3e95c74feaec9442d58c05384a2db432f"
   }
 }
