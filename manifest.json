@@ -1,4 +1,16 @@
 {
-  "bundle": { "version": "", "url": "", "checksum": "", "minNativeVersionCode": 1 },
-  "native": { "versionCode": 1, "versionName": "1.0.0", "apkUrl": "", "minSupportedVersionCode": 1, "notes": "" }
+  "bundle": {
+    "version": "1.0.0-b15afd7",
+    "url": "https://github.com/njkr/talentpilot-releases/releases/download/bundle-1.0.0-b15afd7/bundle-1.0.0-b15afd7.zip",
+    "checksum": "58d601344944240691a2bc4e971825cac5b6fb833c9f39e88a711b756ddcaf52",
+    "minNativeVersionCode": 1
+  },
+  "native": {
+    "versionCode": 10,
+    "versionName": "1.0.0",
+    "apkUrl": "https://github.com/njkr/talentpilot-releases/releases/download/native-10/talentpilot-1.0.0-10.apk",
+    "minSupportedVersionCode": 1,
+    "notes": "First self-updating build.",
+    "nativeHash": "589d69d822f7ffdc61e93e795e5eaf8efb027bde218bc8427eace6721fbf30a3"
+  }
 }
