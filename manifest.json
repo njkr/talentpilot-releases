@@ -2,7 +2,7 @@
   "bundle": {
     "version": "1.0.0-b15afd7",
     "url": "https://github.com/njkr/talentpilot-releases/releases/download/bundle-1.0.0-b15afd7/bundle-1.0.0-b15afd7.zip",
-    "checksum": "58d601344944240691a2bc4e971825cac5b6fb833c9f39e88a711b756ddcaf52",
+    "checksum": "60286ae8ed962883e4cd9bd473b3f7aaea2d394fe29b50a56c1eb64856309600",
     "minNativeVersionCode": 1
   },
   "native": {
