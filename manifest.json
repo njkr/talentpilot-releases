@@ -1,16 +1,17 @@
 {
   "bundle": {
-    "version": "1.0.0-8c925da",
-    "url": "https://github.com/njkr/talentpilot-releases/releases/download/bundle-1.0.0-8c925da/bundle-1.0.0-8c925da.zip",
-    "checksum": "21a70c693ee2ed4ae2a2fa311b6c69976db51bbca4df2dfbb81fe2a315ed16cb",
-    "minNativeVersionCode": 1
+    "version": "1.0.0-50d900d",
+    "url": "https://github.com/njkr/talentpilot-releases/releases/download/bundle-1.0.0-50d900d/bundle-1.0.0-50d900d.zip",
+    "checksum": "9851737859ee322c2af1a1ba180de7be363602d462678aeaf739cdd9a4a68e8afe76dede0ce6c61f14a596278d34b0f5c641e09d8f8715b9fc07db67528e21f24f7fe0f3b61f58f6f5ca9bd7a9c5dc8dd507e1653cdfcf0f84c618dbdb25a5c0a1d6d2f3c1b9a0e62c2659b856ad1c32ab17d4be19f72465d5e24156edbfdd4f12c6ced8f7493705a810a90d3b7b7b97fc6a953d932219dd4447e8621e629a3be3fab384eb9fa46d20f5804e70e0976583b60eca476017b4e3f13b425fc934782463afa4df2dabdf4ab589b1a6181a1a75a678c104bccffd4c323f51b6ddcdbe77dd92fe9e11b492c432fd1badc0604b12bde20c3be8f7c9b6b7a95395b8073d",
+    "sessionKey": "JCdym+257iIgDdTRvVzwqA==:KX0SSuniimn4tCWbFP1j0b1wUnJxhvaKdkq8bSICcy3IrA7ZjkW+fvKi/KTKVi8D+HiCNv3FD/4C1M3uybcKurwNOl+R7x6TZQPs8spNNZqcNWzODq7Ng09ByVuiSRrYKrByEemWsdWvRL4dU5vXd4aK2WytWLes874mjCq0BFQlsYekAJR2YMH0OuVNgU26NKC8Qw5lDVDuT46clwh/WqVqtK4sosMmf0QzuHgpEkL61e9G0i2ie7UbJbx/NZcL+xXEro7qfswmENNyTizahg69fLOHRSElb2M6qmC5Ha4+Cx1T+R2bBb2KbIr+DR4nvCoPy73sjodkQNDrBssuQg==",
+    "minNativeVersionCode": 17
   },
   "native": {
-    "versionCode": 15,
+    "versionCode": 17,
     "versionName": "1.0.0",
-    "apkUrl": "https://github.com/njkr/talentpilot-releases/releases/download/native-15/talentpilot-1.0.0-15.apk",
+    "apkUrl": "https://github.com/njkr/talentpilot-releases/releases/download/native-17/talentpilot-1.0.0-17.apk",
     "minSupportedVersionCode": 1,
-    "notes": "First self-updating build.",
-    "nativeHash": "2828e00355c5a6590c17cb547f6bb4a3e95c74feaec9442d58c05384a2db432f"
+    "notes": "Signed live updates. Install over the existing app.",
+    "nativeHash": "314a1085c5843ab3c5dfd4d470ef076f29e08758d15eda9ee6650f3a0e3576ca"
   }
 }
