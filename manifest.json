@@ -1,8 +1,8 @@
 {
   "bundle": {
-    "version": "1.0.0-cde7fe1",
-    "url": "https://github.com/njkr/talentpilot-releases/releases/download/bundle-1.0.0-cde7fe1/bundle-1.0.0-cde7fe1.zip",
-    "checksum": "0a4f0365777f0e58bbae162f1f8ba17c2bdb2301d0a31b35e141f99256e3ef7d",
+    "version": "1.0.0-01c80fc",
+    "url": "https://github.com/njkr/talentpilot-releases/releases/download/bundle-1.0.0-01c80fc/bundle-1.0.0-01c80fc.zip",
+    "checksum": "17f213f9629b14022b8d804c109d05de122efc84e9d59873dad81b7390e4282b",
     "minNativeVersionCode": 1
   },
   "native": {
