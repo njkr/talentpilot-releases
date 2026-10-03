@@ -1,10 +1,10 @@
 {
   "bundle": {
-    "version": "1.0.0-50d900d",
-    "url": "https://github.com/njkr/talentpilot-releases/releases/download/bundle-1.0.0-50d900d/bundle-1.0.0-50d900d.zip",
-    "checksum": "9851737859ee322c2af1a1ba180de7be363602d462678aeaf739cdd9a4a68e8afe76dede0ce6c61f14a596278d34b0f5c641e09d8f8715b9fc07db67528e21f24f7fe0f3b61f58f6f5ca9bd7a9c5dc8dd507e1653cdfcf0f84c618dbdb25a5c0a1d6d2f3c1b9a0e62c2659b856ad1c32ab17d4be19f72465d5e24156edbfdd4f12c6ced8f7493705a810a90d3b7b7b97fc6a953d932219dd4447e8621e629a3be3fab384eb9fa46d20f5804e70e0976583b60eca476017b4e3f13b425fc934782463afa4df2dabdf4ab589b1a6181a1a75a678c104bccffd4c323f51b6ddcdbe77dd92fe9e11b492c432fd1badc0604b12bde20c3be8f7c9b6b7a95395b8073d",
-    "sessionKey": "JCdym+257iIgDdTRvVzwqA==:KX0SSuniimn4tCWbFP1j0b1wUnJxhvaKdkq8bSICcy3IrA7ZjkW+fvKi/KTKVi8D+HiCNv3FD/4C1M3uybcKurwNOl+R7x6TZQPs8spNNZqcNWzODq7Ng09ByVuiSRrYKrByEemWsdWvRL4dU5vXd4aK2WytWLes874mjCq0BFQlsYekAJR2YMH0OuVNgU26NKC8Qw5lDVDuT46clwh/WqVqtK4sosMmf0QzuHgpEkL61e9G0i2ie7UbJbx/NZcL+xXEro7qfswmENNyTizahg69fLOHRSElb2M6qmC5Ha4+Cx1T+R2bBb2KbIr+DR4nvCoPy73sjodkQNDrBssuQg==",
-    "minNativeVersionCode": 17
+    "version": "1.0.0-43b8847",
+    "url": "https://github.com/njkr/talentpilot-releases/releases/download/bundle-1.0.0-43b8847/bundle-1.0.0-43b8847.zip",
+    "checksum": "b82d83827b3b994729fe4990068fc21f67a3d6a136f18c5f405aa1aa4384812dca149d5bd8c0f5b6b12ea1085097e757d4e5641c1fd0f88bf18cae3cb76f2102b22cc302ba7df25b27fe420b89ad851770bdeb84890af302f0d342e2bde4287a61d17a22db346998f09584b357ff65197c62b8366c9bd073eb4f29ba7569871acf3bc4d9d88b022c2c762cf923cc24f706a243c43dd448ea5885add2ed420f508a9ba76e15aeb384cce358f046afac07df21917518f977cc08b010cb7df0f3e4019d5c7f7ed397b1cceadea42c3c5cae4e3e55345db0746a553300505972b578937fc6263ccf23b042cd81bdebf81f161a40a1c84bbf20b183f9915e6c33d398",
+    "sessionKey": "Ax0KPkHdGbzvtpLSQBvThA==:Nqgn/jb+OHdMgS6Cwe3yBl8rmXnJx4bZUtT/lO/2stytWZoWByFQFtH1/vya3YRulliX3EhuoP7lpFrc+cvwkztz8/oDJRtbDGyCAoUpyH1M2LRf7kWb/Aj1ROq7UCB05ePyz+FvZps5So0Pg+ErjuKtU55c8eRwgQRqnnR2nor/B3WmH8woSCNxAfkgga6Kbz3ARfOYgtFEROzRqPxVfJj6MUXrxAVXGUJU4NDmDC1vW86qjYQYBaN3PGZDKpFJHk8ADrvYs1rOh1vfkVBEpcGT+3JRROpLzL5+PMaNku3CeNw1XoJl+R5DznX43oyYP7rpYnmRdR2F8YcShLFoAQ==",
+    "minNativeVersionCode": 1
   },
   "native": {
     "versionCode": 17,
